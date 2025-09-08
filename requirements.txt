@@ -1,0 +1,17 @@
+# Data Handling
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+statsmodels
+
+# Deep Learning (optional, if you want to try NN/RNN/LSTM)
+tensorflow
+torch
