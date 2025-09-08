@@ -69,7 +69,7 @@ Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/yourusername/retail-analytics.git
 cd retail-analytics
-pip install -r requirements.txt
+
 ```
 ```bash
 # Create conda environment
